@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "6335dea25422fe8daa4b1dc8",
+    "index": 0,
+    "guid": "6b93c6ff-78e6-4631-977c-136b35552cf2",
+    "balance": "$1,808.77",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "brown",
+    "name": "Marla Alvarado",
+    "gender": "female",
+    "company": "QUALITEX",
+    "email": "marlaalvarado@qualitex.com",
+    "phone": "+1 (849) 500-2379",
+    "place": [
+      {
+        "address": "450 Garden Place, Keyport, Maryland, 8211",
+        "about": "Veniam fugiat consequat Lorem do ea veniam cillum consectetur occaecat voluptate pariatur. Proident non minim qui non incididunt labore nostrud deserunt tempor laboris aliquip sit nostrud. Anim Lorem mollit incididunt pariatur minim velit aliqua laborum aliqua ullamco eiusmod deserunt elit. Dolore irure sint ex excepteur elit. Do nisi enim exercitation aliquip dolor aliqua nisi ex cupidatat ex.\r\n",
+        "registered": "2017-07-19T11:46:14 -03:00",
+        "latitude": 50.293582,
+        "longitude": 123.892895
+      },
+      {
+        "address": "518 Elmwood Avenue, Salvo, North Carolina, 8519",
+        "about": "Amet fugiat aute elit nisi labore dolor exercitation duis. Deserunt anim mollit eu laboris anim amet exercitation qui minim ut est. Voluptate exercitation aliqua laboris amet dolore ipsum et dolore enim incididunt amet ut nostrud. Proident labore cupidatat consectetur ex. Voluptate esse eiusmod commodo ad ut reprehenderit. Officia fugiat consectetur consequat velit commodo amet ipsum pariatur pariatur tempor id occaecat non velit.\r\n",
+        "registered": "2018-10-13T04:39:13 -03:00",
+        "latitude": -61.331165,
+        "longitude": -107.714947
+      },
+      {
+        "address": "732 Beverley Road, Gulf, Arizona, 9225",
+        "about": "Minim dolore do aliqua id veniam eiusmod velit pariatur adipisicing adipisicing. Lorem occaecat adipisicing anim reprehenderit est nisi deserunt amet veniam fugiat culpa voluptate. Labore quis ad irure adipisicing anim voluptate fugiat commodo. Cupidatat ut elit labore cupidatat sit sunt commodo duis.\r\n",
+        "registered": "2016-07-19T07:00:09 -03:00",
+        "latitude": 51.675148,
+        "longitude": -21.662973
+      },
+      {
+        "address": "284 Frost Street, Washington, Oklahoma, 5473",
+        "about": "Esse incididunt et consequat id aliquip laboris incididunt. Velit minim dolore quis labore ipsum. Aliqua laboris in aliquip dolore quis commodo. Magna est labore excepteur commodo ex sunt reprehenderit Lorem qui ipsum nostrud.\r\n",
+        "registered": "2017-03-30T12:11:12 -03:00",
+        "latitude": 47.142675,
+        "longitude": 179.968597
+      },
+      {
+        "address": "398 Hegeman Avenue, Libertytown, Guam, 5881",
+        "about": "Nulla commodo deserunt sint eiusmod enim adipisicing ex mollit occaecat. In non sit nulla culpa ad ea sit nostrud commodo ullamco eiusmod. Proident ad dolore aliquip ullamco velit velit. Pariatur consequat Lorem adipisicing sit irure.\r\n",
+        "registered": "2020-05-14T03:49:21 -03:00",
+        "latitude": 47.901401,
+        "longitude": -141.007534
+      },
+      {
+        "address": "309 Williams Avenue, Coleville, District Of Columbia, 2917",
+        "about": "Ipsum dolore quis magna et nostrud. Duis qui tempor culpa Lorem duis minim commodo do do laborum dolor et laborum enim. Sit deserunt aute fugiat enim eu ea cupidatat tempor voluptate veniam ad qui est aute.\r\n",
+        "registered": "2022-03-23T09:31:10 -03:00",
+        "latitude": -65.779326,
+        "longitude": 134.597706
+      },
+      {
+        "address": "957 Senator Street, Elizaville, Massachusetts, 3211",
+        "about": "Excepteur et veniam velit nisi anim amet et dolor nisi dolor occaecat magna cupidatat. Elit cupidatat aliquip voluptate deserunt in sunt ut culpa eiusmod. Cillum fugiat ipsum ad irure sint nostrud nisi mollit excepteur sint Lorem veniam. Proident cupidatat nisi duis nulla sint elit sit eiusmod ea incididunt occaecat laboris fugiat. Reprehenderit consequat sint exercitation quis fugiat esse velit ullamco irure ad. Proident Lorem anim deserunt voluptate aliquip laborum commodo adipisicing officia.\r\n",
+        "registered": "2018-01-06T08:56:42 -03:00",
+        "latitude": -50.307856,
+        "longitude": -34.979182
+      },
+      {
+        "address": "310 Montieth Street, Klagetoh, New Hampshire, 8285",
+        "about": "Sint enim dolor sit aliqua. Nostrud sit pariatur consequat minim magna non laboris irure dolore. Id mollit dolore aliqua pariatur in ut ad tempor in sunt sint cillum nulla ut. Qui sit amet irure labore consequat incididunt dolor sunt. Consequat cupidatat officia magna officia mollit Lorem.\r\n",
+        "registered": "2014-01-11T12:01:16 -04:00",
+        "latitude": 89.259096,
+        "longitude": -135.973641
+      }
+    ],
+    "tags": [
+      "incididunt",
+      "reprehenderit",
+      "eiusmod",
+      "magna",
+      "enim",
+      "ad",
+      "commodo"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hewitt Fowler"
+      },
+      {
+        "id": 1,
+        "name": "Fernandez Slater"
+      },
+      {
+        "id": 2,
+        "name": "Clark Keller"
+      }
+    ],
+    "greeting": "Hello, Marla Alvarado! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
