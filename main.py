@@ -1,4 +1,3 @@
-from course_python import ls1
 from course_python import ls2
 
 new_json = [
