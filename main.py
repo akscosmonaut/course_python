@@ -1,7 +1,7 @@
 from course_python import ls1_functions
 from course_python import ls2_functions
 from course_python import ls2_jsons
-from course_python import ls3_for, ls3_lists
+from course_python import ls3_for, ls3_lists, ls3_if
 
 if __name__ == '__main__':
     # ls1_functions.print_hi('PyCharm')
@@ -19,6 +19,7 @@ if __name__ == '__main__':
     ls3_for.loop_with_pass()
 
     ls3_lists.list_with_comprehensions()
+    ls3_if.func_with_if()
 
 
 
